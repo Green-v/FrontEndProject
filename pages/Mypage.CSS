@@ -1,0 +1,22 @@
+body{
+    background-image: url(/labs/images/digital-paper-5316717_1920.jpg);
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    text-decoration-color: black;
+}
+.p{
+    text-align: center;
+    color: white;
+}
+a{
+    color: black;
+    text-decoration: black;
+    text-decoration-style: none;
+}
